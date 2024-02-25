@@ -1,0 +1,20 @@
+.imgone{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: blue;
+    text-align: center;
+    padding: 10px;
+}
+.imgone img{
+    width: 30px;
+    margin: 5px;
+}
+.maindiv{
+    position: relative;
+}
+.seconddiv{
+    position: absolute;
+    top: 500px;
+    
+}
